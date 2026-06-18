@@ -10,6 +10,21 @@ This project presents a complete end-to-end data mining pipeline that investigat
 
 ---
 
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-013243?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+
+**Libraries used:**
+`pandas` · `numpy` · `matplotlib` · `seaborn` · `scikit-learn` · `sklearn-extra` · `skfuzzy` · `scipy`
+
+---
+
 ## 📂 Dataset
 
 | Property | Details |
@@ -125,21 +140,6 @@ Raw Data
 
 ---
 
-## 🧰 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical-013243?logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
-
-**Libraries used:**
-`pandas` · `numpy` · `matplotlib` · `seaborn` · `scikit-learn` · `sklearn-extra` · `skfuzzy` · `scipy`
-
----
-
 ## 📁 Repository Structure
 
 ```
@@ -182,4 +182,4 @@ jupyter notebook main_notebook.ipynb
 
 ## 📄 License
 
-This project is for academic purposes. Dataset sourced from public repositories.
+This project is licensed under the MIT License — feel free to use, modify, and distribute it.
